@@ -1,99 +1,98 @@
-Title,RequiredSkills,Sector,Location
-Data Analyst Internship,"Python, SQL, Data Analysis","Data Science","Delhi"
-Frontend Developer Internship,"HTML, CSS, JavaScript","Web Development","Mumbai"
-Content Writer Internship,"Writing, SEO, Social Media","Media","Remote"
-Digital Marketing Internship,"SEO, Google Ads, Content","Marketing","Pune"
-AI Research Internship,"Python, Machine Learning, NLP","Artificial Intelligence","Bangalore"
-Java Developer Internship,"Java, Spring, Hibernate","Software Development","Hyderabad"
-Business Analyst Internship,"Excel, Power BI, Analytics","Consulting","Noida"
-Graphic Design Internship,"Adobe Photoshop, Illustrator, Creativity","Design","Chennai"
-HR Intern,"Recruitment, Payroll, Communication","Human Resources","Gurgaon"
-Marketing Analyst Internship,"Market Research, Strategy, Analytics","Marketing","Delhi"
-Mechanical Engineering Internship,"AutoCAD, SolidWorks, Design","Engineering","Pune"
-Civil Engineering Internship,"AutoCAD, Site Supervision, Estimation","Construction","Ahmedabad"
-App Developer Internship,"Swift, Kotlin, Mobile Apps","App Development","Bangalore"
-Pharmacy Internship,"Pharma, Research, Formulation","Healthcare","Mumbai"
-Finance Intern,"Accounting, Excel, Financial Analysis","Finance","Kolkata"
-Event Management Internship,"Planning, Coordination, Communication","Event Planning","Goa"
-Social Media Intern,"Instagram, Facebook, Content Creation","Social Media","Remote"
-Machine Learning Internship,"Python, Deep Learning, Research","Artificial Intelligence","Hyderabad"
-Business Development Intern,"Sales, Networking, CRM","Business","Delhi"
-Operations Intern,"Logistics, Coordination, MS Office","Operations","Chennai"
-Cloud Engineering Intern,"AWS, Azure, Networking","Cloud Computing","Mumbai"
-Cybersecurity Analyst Intern,"Network Security, SIEM, Python","Cybersecurity","Bangalore"
-UI/UX Design Intern,"Figma, Sketch, Prototyping","Design","Hyderabad"
-Technical Support Intern,"Troubleshooting, Customer Service, Windows","IT Support","Noida"
-Research Analyst Intern,"Data Collection, Statistics, R","Research","Delhi"
-Supply Chain Intern,"Logistics, Inventory Management, SAP","Logistics","Pune"
-Architectural Intern,"Revit, SketchUp, Building Codes","Architecture","Chennai"
-Environmental Intern,"GIS, Data Analysis, Sustainability","Environmental","Mumbai"
-Network Administrator Intern,"Cisco, Juniper, Routing","IT Infrastructure","Bangalore"
-Chemical Engineering Intern,"Process Design, AutoCAD, Lab Skills","Engineering","Ahmedabad"
-Biotechnology Intern,"Molecular Biology, Lab Techniques, Research","Biotechnology","Pune"
-Fashion Design Intern,"Sketching, Adobe Illustrator, Textiles","Fashion","Delhi"
-Journalism Intern,"Reporting, Editing, Research","Media","Remote"
-Public Relations Intern,"Media Relations, Press Releases, Communication","PR","Mumbai"
-Clinical Research Intern,"Clinical Trials, Data Analysis, Regulations","Healthcare","Hyderabad"
-Game Development Intern,"Unity, C++, 3D Modeling","Gaming","Bangalore"
-Legal Intern,"Legal Research, Drafting, Documentation","Legal","Delhi"
-Aerospace Engineering Intern,"CAD, MATLAB, Thermodynamics","Aerospace","Pune"
-Electrical Engineering Intern,"Circuit Design, PCB, MATLAB","Engineering","Hyderabad"
-Telecommunications Intern,"Network Protocols, VoIP, Wireless Technology","Telecommunications","Noida"
-Product Management Intern,"Market Research, Agile, Strategy","Product Management","Bangalore"
-Robotics Intern,"ROS, C++, Automation","Robotics","Chennai"
-Quality Assurance Intern,"Testing, Bug Reporting, Automation","Software Development","Pune"
-Data Science Intern,"R, Statistics, Machine Learning","Data Science","Mumbai"
-Financial Analyst Intern,"Valuation, Financial Modeling, Excel","Finance","Delhi"
-Urban Planning Intern,"GIS, AutoCAD, Policy Analysis","Urban Planning","Ahmedabad"
-Pharmaceutical Sales Intern,"Sales, Communication, Product Knowledge","Pharma","Mumbai"
-Education Intern,"Curriculum Development, Tutoring, Classroom Management","Education","Remote"
-Hospitality Intern,"Front Desk Operations, Guest Services, Coordination","Hospitality","Goa"
-Interior Design Intern,"AutoCAD, SketchUp, Material Selection","Design","Chennai"
-E-commerce Intern,"Digital Marketing, E-commerce Platforms, Analytics","E-commerce","Bangalore"
-Construction Management Intern,"Project Scheduling, Cost Estimation, Site Management","Construction","Hyderabad"
-Biomedical Engineering Intern,"Medical Devices, CAD, MATLAB","Biomedical","Delhi"
-Genetics Research Intern,"Genomics, Bioinformatics, Lab Techniques","Biotechnology","Pune"
-UX Researcher Intern,"User Interviews, Usability Testing, Surveys","UI/UX","Mumbai"
-Content Marketing Intern,"Content Creation, SEO, Email Marketing","Marketing","Bangalore"
-DevOps Intern,"CI/CD, Docker, Kubernetes","DevOps","Hyderabad"
-Sports Management Intern,"Event Planning, Marketing, Athlete Relations","Sports","Delhi"
-Forensic Science Intern,"Lab Analysis, Data Interpretation, Evidence Collection","Forensic Science","Noida"
-GIS Analyst Intern,"ArcGIS, QGIS, Spatial Analysis","GIS","Chennai"
-Embedded Systems Intern,"C/C++, Microcontrollers, IoT","Electronics","Pune"
-Food Science Intern,"Food Chemistry, Product Development, Lab Skills","Food Science","Mumbai"
-Actuarial Intern,"Statistics, Probability, Excel","Insurance","Bangalore"
-Public Health Intern,"Epidemiology, Health Promotion, Research","Public Health","Hyderabad"
-Automotive Engineering Intern,"CAD, Engine Design, Vehicle Dynamics","Automotive","Delhi"
-Sociology Research Intern,"Qualitative Research, Data Analysis, SPSS","Social Sciences","Remote"
-Human-Computer Interaction Intern,"Prototyping, Usability Testing, Cognitive Science","HCI","Chennai"
-Mechatronics Intern,"Robotics, Electronics, Mechanical Systems","Mechatronics","Pune"
-Cloud Solutions Architect Intern,"Cloud Platforms, Security, Scalability","Cloud Computing","Mumbai"
-Data Engineering Intern,"ETL, SQL, Python","Data Engineering","Bangalore"
-Investment Banking Intern,"Financial Modeling, Valuation, M&A","Finance","Hyderabad"
-Market Research Intern,"Surveys, Data Analysis, SPSS","Market Research","Delhi"
-Animation Intern,"Adobe After Effects, Maya, Storyboarding","Animation","Noida"
-Biostatistics Intern,"R, SAS, Clinical Trial Data","Biostatistics","Chennai"
-Renewable Energy Intern,"Solar, Wind, CAD","Energy","Pune"
-Theater Production Intern,"Stage Management, Lighting, Sound","Arts","Mumbai"
-Veterinary Intern,"Animal Care, Surgery Assistance, Clinic Management","Veterinary","Bangalore"
-Real Estate Intern,"Market Analysis, Property Management, Sales","Real Estate","Hyderabad"
-Sports Science Intern,"Physiology, Biomechanics, Data Analysis","Sports","Delhi"
-Library Science Intern,"Cataloging, Archiving, Digitalization","Library Science","Remote"
-Aviation Intern,"Flight Operations, Safety Protocols, Air Traffic Control","Aviation","Chennai"
-Interior Decorating Intern,"Space Planning, Color Theory, Furniture Selection","Design","Pune"
-Physical Therapy Intern,"Patient Care, Exercise Prescription, Rehabilitation","Healthcare","Mumbai"
-Psychology Research Intern,"Statistical Analysis, Research Methods, SPSS","Psychology","Bangalore"
-Urban Design Intern,"SketchUp, AutoCAD, Site Planning","Urban Planning","Hyderabad"
-Brand Management Intern,"Brand Strategy, Market Analysis, Advertising","Marketing","Delhi"
-Museum Curatorial Intern,"Exhibition Planning, Collections Management, Research","Museums","Noida"
-Forensic Accounting Intern,"Auditing, Fraud Examination, Data Analysis","Finance","Chennai"
-Zoology Intern,"Animal Behavior, Research, Conservation","Zoology","Pune"
-Media Planning Intern,"Audience Analysis, Campaign Strategy, Data Analysis","Advertising","Mumbai"
-Civil Engineer Intern,"Bridge Design, Construction Management, AutoCAD","Construction","Bangalore"
-Environmental Science Intern,"Ecology, GIS, Fieldwork","Environmental","Hyderabad"
-Fashion Marketing Intern,"Social Media, Influencer Marketing, Trend Analysis","Fashion","Delhi"
-Translation Intern,"Language Skills, Editing, Cultural Context","Translation","Remote"
-Sales Intern,"Lead Generation, CRM, Communication","Sales","Chennai"
-Public Administration Intern,"Policy Analysis, Government Regulations, Research","Public Administration","Pune"
-Child Psychology Intern,"Child Development, Behavioral Analysis, Counseling","Psychology","Mumbai"
-
+Title,RequiredSkills,Sector,Location,Mode
+Data Analyst Internship,"Python, SQL, Data Analysis",Data Science,Delhi,Online
+Frontend Developer Internship,"HTML, CSS, JavaScript",Web Development,Mumbai,Offline
+Content Writer Internship,"Writing, SEO, Social Media",Media,Remote,Online
+Digital Marketing Internship,"SEO, Google Ads, Content",Marketing,Pune,Offline
+AI Research Internship,"Python, Machine Learning, NLP",Artificial Intelligence,Bangalore,Offline
+Java Developer Internship,"Java, Spring, Hibernate",Software Development,Hyderabad,Hybrid
+Business Analyst Internship,"Excel, Power BI, Analytics",Consulting,Noida,Offline
+Graphic Design Internship,"Adobe Photoshop, Illustrator, Creativity",Design,Chennai,Hybrid
+HR Intern,"Recruitment, Payroll, Communication",Human Resources,Gurgaon,Hybrid
+Marketing Analyst Internship,"Market Research, Strategy, Analytics",Marketing,Delhi,Offline
+Mechanical Engineering Internship,"AutoCAD, SolidWorks, Design",Engineering,Pune,Hybrid
+Civil Engineering Internship,"AutoCAD, Site Supervision, Estimation",Construction,Ahmedabad,Offline
+App Developer Internship,"Swift, Kotlin, Mobile Apps",App Development,Bangalore,Offline
+Pharmacy Internship,"Pharma, Research, Formulation",Healthcare,Mumbai,Hybrid
+Finance Intern,"Accounting, Excel, Financial Analysis",Finance,Kolkata,Hybrid
+Event Management Internship,"Planning, Coordination, Communication",Event Planning,Goa,Online
+Social Media Intern,"Instagram, Facebook, Content Creation",Social Media,Remote,Hybrid
+Machine Learning Internship,"Python, Deep Learning, Research",Artificial Intelligence,Hyderabad,Hybrid
+Business Development Intern,"Sales, Networking, CRM",Business,Delhi,Offline
+Operations Intern,"Logistics, Coordination, MS Office",Operations,Chennai,Offline
+Cloud Engineering Intern,"AWS, Azure, Networking",Cloud Computing,Mumbai,Online
+Cybersecurity Analyst Intern,"Network Security, SIEM, Python",Cybersecurity,Bangalore,Online
+UI/UX Design Intern,"Figma, Sketch, Prototyping",Design,Hyderabad,Offline
+Technical Support Intern,"Troubleshooting, Customer Service, Windows",IT Support,Noida,Offline
+Research Analyst Intern,"Data Collection, Statistics, R",Research,Delhi,Online
+Supply Chain Intern,"Logistics, Inventory Management, SAP",Logistics,Pune,Online
+Architectural Intern,"Revit, SketchUp, Building Codes",Architecture,Chennai,Online
+Environmental Intern,"GIS, Data Analysis, Sustainability",Environmental,Mumbai,Offline
+Network Administrator Intern,"Cisco, Juniper, Routing",IT Infrastructure,Bangalore,Hybrid
+Chemical Engineering Intern,"Process Design, AutoCAD, Lab Skills",Engineering,Ahmedabad,Online
+Biotechnology Intern,"Molecular Biology, Lab Techniques, Research",Biotechnology,Pune,Hybrid
+Fashion Design Intern,"Sketching, Adobe Illustrator, Textiles",Fashion,Delhi,Hybrid
+Journalism Intern,"Reporting, Editing, Research",Media,Remote,Offline
+Public Relations Intern,"Media Relations, Press Releases, Communication",PR,Mumbai,Online
+Clinical Research Intern,"Clinical Trials, Data Analysis, Regulations",Healthcare,Hyderabad,Offline
+Game Development Intern,"Unity, C++, 3D Modeling",Gaming,Bangalore,Online
+Legal Intern,"Legal Research, Drafting, Documentation",Legal,Delhi,Online
+Aerospace Engineering Intern,"CAD, MATLAB, Thermodynamics",Aerospace,Pune,Offline
+Electrical Engineering Intern,"Circuit Design, PCB, MATLAB",Engineering,Hyderabad,Online
+Telecommunications Intern,"Network Protocols, VoIP, Wireless Technology",Telecommunications,Noida,Hybrid
+Product Management Intern,"Market Research, Agile, Strategy",Product Management,Bangalore,Hybrid
+Robotics Intern,"ROS, C++, Automation",Robotics,Chennai,Hybrid
+Quality Assurance Intern,"Testing, Bug Reporting, Automation",Software Development,Pune,Offline
+Data Science Intern,"R, Statistics, Machine Learning",Data Science,Mumbai,Offline
+Financial Analyst Intern,"Valuation, Financial Modeling, Excel",Finance,Delhi,Online
+Urban Planning Intern,"GIS, AutoCAD, Policy Analysis",Urban Planning,Ahmedabad,Offline
+Pharmaceutical Sales Intern,"Sales, Communication, Product Knowledge",Pharma,Mumbai,Offline
+Education Intern,"Curriculum Development, Tutoring, Classroom Management",Education,Remote,Hybrid
+Hospitality Intern,"Front Desk Operations, Guest Services, Coordination",Hospitality,Goa,Offline
+Interior Design Intern,"AutoCAD, SketchUp, Material Selection",Design,Chennai,Hybrid
+E-commerce Intern,"Digital Marketing, E-commerce Platforms, Analytics",E-commerce,Bangalore,Hybrid
+Construction Management Intern,"Project Scheduling, Cost Estimation, Site Management",Construction,Hyderabad,Offline
+Biomedical Engineering Intern,"Medical Devices, CAD, MATLAB",Biomedical,Delhi,Online
+Genetics Research Intern,"Genomics, Bioinformatics, Lab Techniques",Biotechnology,Pune,Hybrid
+UX Researcher Intern,"User Interviews, Usability Testing, Surveys",UI/UX,Mumbai,Offline
+Content Marketing Intern,"Content Creation, SEO, Email Marketing",Marketing,Bangalore,Hybrid
+DevOps Intern,"CI/CD, Docker, Kubernetes",DevOps,Hyderabad,Online
+Sports Management Intern,"Event Planning, Marketing, Athlete Relations",Sports,Delhi,Online
+Forensic Science Intern,"Lab Analysis, Data Interpretation, Evidence Collection",Forensic Science,Noida,Offline
+GIS Analyst Intern,"ArcGIS, QGIS, Spatial Analysis",GIS,Chennai,Offline
+Embedded Systems Intern,"C/C++, Microcontrollers, IoT",Electronics,Pune,Online
+Food Science Intern,"Food Chemistry, Product Development, Lab Skills",Food Science,Mumbai,Online
+Actuarial Intern,"Statistics, Probability, Excel",Insurance,Bangalore,Offline
+Public Health Intern,"Epidemiology, Health Promotion, Research",Public Health,Hyderabad,Hybrid
+Automotive Engineering Intern,"CAD, Engine Design, Vehicle Dynamics",Automotive,Delhi,Offline
+Sociology Research Intern,"Qualitative Research, Data Analysis, SPSS",Social Sciences,Remote,Offline
+Human-Computer Interaction Intern,"Prototyping, Usability Testing, Cognitive Science",HCI,Chennai,Offline
+Mechatronics Intern,"Robotics, Electronics, Mechanical Systems",Mechatronics,Pune,Online
+Cloud Solutions Architect Intern,"Cloud Platforms, Security, Scalability",Cloud Computing,Mumbai,Hybrid
+Data Engineering Intern,"ETL, SQL, Python",Data Engineering,Bangalore,Hybrid
+Investment Banking Intern,"Financial Modeling, Valuation, M&A",Finance,Hyderabad,Online
+Market Research Intern,"Surveys, Data Analysis, SPSS",Market Research,Delhi,Offline
+Animation Intern,"Adobe After Effects, Maya, Storyboarding",Animation,Noida,Hybrid
+Biostatistics Intern,"R, SAS, Clinical Trial Data",Biostatistics,Chennai,Online
+Renewable Energy Intern,"Solar, Wind, CAD",Energy,Pune,Hybrid
+Theater Production Intern,"Stage Management, Lighting, Sound",Arts,Mumbai,Offline
+Veterinary Intern,"Animal Care, Surgery Assistance, Clinic Management",Veterinary,Bangalore,Hybrid
+Real Estate Intern,"Market Analysis, Property Management, Sales",Real Estate,Hyderabad,Hybrid
+Sports Science Intern,"Physiology, Biomechanics, Data Analysis",Sports,Delhi,Offline
+Library Science Intern,"Cataloging, Archiving, Digitalization",Library Science,Remote,Offline
+Aviation Intern,"Flight Operations, Safety Protocols, Air Traffic Control",Aviation,Chennai,Online
+Interior Decorating Intern,"Space Planning, Color Theory, Furniture Selection",Design,Pune,Offline
+Physical Therapy Intern,"Patient Care, Exercise Prescription, Rehabilitation",Healthcare,Mumbai,Online
+Psychology Research Intern,"Statistical Analysis, Research Methods, SPSS",Psychology,Bangalore,Hybrid
+Urban Design Intern,"SketchUp, AutoCAD, Site Planning",Urban Planning,Hyderabad,Offline
+Brand Management Intern,"Brand Strategy, Market Analysis, Advertising",Marketing,Delhi,Online
+Museum Curatorial Intern,"Exhibition Planning, Collections Management, Research",Museums,Noida,Offline
+Forensic Accounting Intern,"Auditing, Fraud Examination, Data Analysis",Finance,Chennai,Offline
+Zoology Intern,"Animal Behavior, Research, Conservation",Zoology,Pune,Hybrid
+Media Planning Intern,"Audience Analysis, Campaign Strategy, Data Analysis",Advertising,Mumbai,Offline
+Civil Engineer Intern,"Bridge Design, Construction Management, AutoCAD",Construction,Bangalore,Hybrid
+Environmental Science Intern,"Ecology, GIS, Fieldwork",Environmental,Hyderabad,Offline
+Fashion Marketing Intern,"Social Media, Influencer Marketing, Trend Analysis",Fashion,Delhi,Offline
+Translation Intern,"Language Skills, Editing, Cultural Context",Translation,Remote,Offline
+Sales Intern,"Lead Generation, CRM, Communication",Sales,Chennai,Offline
+Public Administration Intern,"Policy Analysis, Government Regulations, Research",Public Administration,Pune,Hybrid
+Child Psychology Intern,"Child Development, Behavioral Analysis, Counseling",Psychology,Mumbai,Hybrid
