@@ -55,28 +55,28 @@ labels = {
     }
 }
 
-# multilingual FAQ text – InternHub version
+# multilingual FAQ text – InternsHub version
 faq = {
     "English":[
-        ("What is InternHub?","InternHub is an AI-based engine that recommends internships to students based on their skills, sector, location and mode."),
+        ("What is InternsHub?","InternsHub is an AI-based engine that recommends internships to students based on their skills, sector, location and mode."),
         ("How does the recommendation work?","We analyze your entered skills, sector, location and mode, then match them with internships using AI (semantic embeddings/TF-IDF)."),
-        ("Do I need to pay to use InternHub?","No. This is a free prototype for students."),
+        ("Do I need to pay to use InternsHub?","No. This is a free prototype for students."),
         ("How many internships will I see?","Currently, we show your top 3 matching internships, but this can be increased later."),
         ("Can I get notifications on Email or SMS?","Yes. Email notifications are available; SMS will require phone number verification on Twilio."),
         ("How to change the language?","Use the dropdown at the top to select English, Hindi or Marathi.")
     ],
     "Hindi":[
-        ("InternHub क्या है?","InternHub एक AI आधारित इंजन है जो छात्रों को उनके कौशल, क्षेत्र, स्थान और मोड के आधार पर इंटर्नशिप सुझाता है।"),
+        ("InternsHub क्या है?","InternsHub एक AI आधारित इंजन है जो छात्रों को उनके कौशल, क्षेत्र, स्थान और मोड के आधार पर इंटर्नशिप सुझाता है।"),
         ("सिफ़ारिश कैसे काम करती है?","हम आपके कौशल, क्षेत्र, स्थान और मोड को देखते हैं और AI से मैच करते हैं।"),
-        ("क्या InternHub का उपयोग करने के लिए भुगतान करना होगा?","नहीं। यह छात्रों के लिए एक मुफ्त प्रोटोटाइप है।"),
+        ("क्या InternsHub का उपयोग करने के लिए भुगतान करना होगा?","नहीं। यह छात्रों के लिए एक मुफ्त प्रोटोटाइप है।"),
         ("मुझे कितनी इंटर्नशिप दिखाई देंगी?","अभी हम शीर्ष 3 इंटर्नशिप दिखाते हैं, बाद में इसे बढ़ाया जा सकता है।"),
         ("क्या मुझे ईमेल या एसएमएस नोटिफिकेशन मिल सकते हैं?","हाँ, ईमेल नोटिफिकेशन उपलब्ध हैं; एसएमएस के लिए Twilio पर नंबर वेरिफिकेशन चाहिए।"),
         ("भाषा कैसे बदलें?","ऊपर ड्रॉपडाउन से भाषा चुनें।")
     ],
     "Marathi":[
-        ("InternHub काय आहे?","InternHub हे AI आधारित इंजिन आहे जे विद्यार्थ्यांना त्यांच्या कौशल्य, विभाग, ठिकाण आणि मोडवरून इंटर्नशिप सुचवते."),
+        ("InternsHub काय आहे?","InternsHub हे AI आधारित इंजिन आहे जे विद्यार्थ्यांना त्यांच्या कौशल्य, विभाग, ठिकाण आणि मोडवरून इंटर्नशिप सुचवते."),
         ("शिफारस कशी कार्य करते?","आम्ही तुमचे कौशल्य, विभाग, ठिकाण व मोड पाहतो व AI ने जुळवतो."),
-        ("InternHub वापरण्यासाठी पैसे द्यावे लागतील का?","नाही. हे विद्यार्थ्यांसाठी मोफत प्रोटोटाइप आहे."),
+        ("InternsHub वापरण्यासाठी पैसे द्यावे लागतील का?","नाही. हे विद्यार्थ्यांसाठी मोफत प्रोटोटाइप आहे."),
         ("मला किती इंटर्नशिप दिसतील?","सध्या आम्ही तुमच्या टॉप 3 इंटर्नशिप दाखवतो, नंतर वाढवू शकतो."),
         ("मला ईमेल किंवा एसएमएस नोटिफिकेशन मिळू शकते का?","होय, ईमेल नोटिफिकेशन उपलब्ध आहेत; एसएमएससाठी Twilio वर नंबर व्हेरिफिकेशन लागेल."),
         ("भाषा कशी बदलायची?","वरच्या ड्रॉपडाउनमधून भाषा निवडा.")
@@ -93,7 +93,7 @@ def load_data():
 internships = load_data()
 
 # -------------------------- Page Config & CSS --------------------------
-st.set_page_config(page_title="InternHub – AI Internship Recommendation", layout="wide")
+st.set_page_config(page_title="InternsHub – AI Internship Recommendation", layout="wide")
 
 st.markdown("""
     <style>
@@ -128,7 +128,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.markdown("<div class='main-title'>InternHub</div>", unsafe_allow_html=True)
+st.markdown("<div class='main-title'>InternsHub</div>", unsafe_allow_html=True)
 st.markdown("<div class='subtitle'>AI-Based Internship Recommendation Engine</div>", unsafe_allow_html=True)
 
 lang = st.selectbox("Choose Language / भाषा निवडा", ["English","Hindi","Marathi"])
@@ -203,6 +203,7 @@ for i,(q,a) in enumerate(faq[lang],start=1):
         st.write(a)
 
 st.info("This is an advanced multilingual prototype. Future scope: REST API with Flask, PostgreSQL DB, React frontend, regional languages & SendGrid/Twilio notifications.")
+
 
 
 
